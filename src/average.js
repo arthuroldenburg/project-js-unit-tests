@@ -12,9 +12,6 @@
 */
 
 const average = () => {
-  if (average.length === 0 || typeof average !== 'number') {
-    return undefined;
-  }
 };
 
 module.exports = average;
